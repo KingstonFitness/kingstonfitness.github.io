@@ -44,6 +44,7 @@ nav:
  blog: "root_url/blog/"
  gallery: "root_url/gallery/"
  about: "root_url/about/"
+ testing: "root_url/testing/"
 
 
 # Server
