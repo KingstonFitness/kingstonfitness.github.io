@@ -10,8 +10,8 @@ assets:
   owner: assets/owner
 logo: logo.png
 discus_shortname: Kingston Fitness
-email: mad@ness.com
-url: "http://madforjekyll.github.io"
+email: placeholder email
+url: "www.kingstonfitness.com.au"
 search: true
 share: true
 comments: true
@@ -41,8 +41,9 @@ instagram_username: placeholder
  
 # Internal nav
 nav:
- nametest: "root_url/writing/"
- gallery: "root_url/gallery/"
+ services: "root_url/services"
+ blog: "root_url/blog/"
+ library: "root_url/library/"
  about: "root_url/about/"
 
 
