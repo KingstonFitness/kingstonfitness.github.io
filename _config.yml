@@ -1,5 +1,5 @@
 # Site settings
-title: "Kingston Fitness"
+title: "MADness"
 description: A Template for Jekyll
 
 # Files
@@ -9,9 +9,9 @@ assets:
   libs: assets/libs
   owner: assets/owner
 logo: logo.png
-discus_shortname: Kingston Fitness
-email: placeholder email
-url: "www.kingstonfitness.com.au"
+discus_shortname: MADness
+email: mad@ness.com
+url: "http://madforjekyll.github.io"
 search: true
 share: true
 comments: true
@@ -24,26 +24,25 @@ wpm: 200
 
 # Owner/author information
 owner:
-  name:   Kingston Fitness
+  name:   MADness
   avatar: avatar.jpg
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Kingston Fitness
+  description:    MAD for Jekyll
 
 # Social networking links used in footer. Update and remove as you like.
-twitter_username: placeholder
-facebook_username: placeholder
-github_username: placeholder
-deviantart_username: placeholder
-500px_username: placeholder
-flickr_username: placeholder
-instagram_username: placeholder
+twitter_username: MAD4Jekyll
+facebook_username: MAD4Jekyll
+github_username: MAD4Jekyll
+deviantart_username: MAD4Jekyll
+500px_username: MAD4Jekyll
+flickr_username: MAD4Jekyll
+instagram_username: MAD4Jekyll
 
  
 # Internal nav
 nav:
- services: "root_url/services"
- blog: "root_url/blog/"
- library: "root_url/library/"
+ writing: "root_url/writing/"
+ gallery: "root_url/gallery/"
  about: "root_url/about/"
 
 
