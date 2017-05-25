@@ -10,7 +10,7 @@ assets:
   owner: assets/owner
 logo: logo.png
 discus_shortname: MADness
-email: mad@ness.com
+email: rick@kingstonfitness.com.au
 url: "http://madforjekyll.github.io"
 search: true
 share: true
@@ -30,13 +30,13 @@ owner:
   description: Kingston Fitness
 
 # Social networking links used in footer. Update and remove as you like.
-twitter_username: MAD4Jekyll
-facebook_username: MAD4Jekyll
-github_username: MAD4Jekyll
-deviantart_username: MAD4Jekyll
-500px_username: MAD4Jekyll
-flickr_username: MAD4Jekyll
-instagram_username: MAD4Jekyll
+#twitter_username: MAD4Jekyll
+facebook_username: KingstonFitness
+#github_username: MAD4Jekyll
+#deviantart_username: MAD4Jekyll
+#500px_username: MAD4Jekyll
+#flickr_username: MAD4Jekyll
+#instagram_username: MAD4Jekyll
 
  
 # Internal nav
@@ -45,7 +45,7 @@ nav:
  workouts: "root_url/workouts/"
  about: "root_url/about/"
  services: "root_url/services/"
-
+ bookings: "root_url/bookings/"
 
 # Server
 destination:      	 ./_site
