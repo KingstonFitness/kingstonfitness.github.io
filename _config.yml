@@ -45,7 +45,7 @@ nav:
  workouts: "root_url/workouts/"
  about: "root_url/about/"
  services: "root_url/services/"
-
+ bookings: "root_url/bookings/"
 
 # Server
 destination:      	 ./_site
