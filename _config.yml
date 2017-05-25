@@ -9,9 +9,9 @@ assets:
   libs: assets/libs
   owner: assets/owner
 logo: logo.png
-discus_shortname: MADness
-email: mad@ness.com
-url: "http://madforjekyll.github.io"
+#discus_shortname: MADness
+email: rick@kingstonfitness.com.au
+url: "www.kingstonfitness.com.au"
 search: true
 share: true
 comments: true
