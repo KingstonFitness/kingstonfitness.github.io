@@ -11,7 +11,7 @@ assets:
 logo: logo.png
 discus_shortname: MADness
 email: rick@kingstonfitness.com.au
-url: "www.kingstonfitness.com.au"
+url: "http://madforjekyll.github.io"
 search: true
 share: true
 comments: true
